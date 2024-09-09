@@ -9,7 +9,7 @@
 * [Overview](#Overview)
 * [Key Features](#Key-Features)
 * [Building and Running](#Building-and-Running)
-* [Key Layout](#Key-Layout)
+* [Keyboard Layout](#Keyboard-Layout)
 * [Team](#Team)
 * [Conclusion](#Conclusion)
 * [Texture Attributions](#Texture-Attributions)
@@ -48,7 +48,7 @@ Run bonus part:
 make run
 ```
 
-## Key layout
+## Keyboard layout
 ***Mandatory Part:***
 | Key | Description |
 | ---------- | ----------- |
