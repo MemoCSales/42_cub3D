@@ -48,7 +48,7 @@ Run bonus part:
 make run
 ```
 
-## Key layout
+## Keyboard layout
 ***Mandatory Part:***
 | Key | Description |
 | ---------- | ----------- |
